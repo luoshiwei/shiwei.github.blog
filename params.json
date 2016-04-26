@@ -1,0 +1,6 @@
+{
+  "name": "Python的三目运算符技巧",
+  "tagline": "编程语言 Python",
+  "body": "\r\n\r\n刚刚接触Python，今天用Python写爬虫时，突然发现它没有三目运算符，于是联想到之前写ruby和javascript的一些方式，应该可以实现\r\n\r\n1、a = b if true else c\r\n\r\n2、a = b || c\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
